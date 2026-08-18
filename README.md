@@ -233,9 +233,8 @@ Lesson quizzes:
 
 - Practical exercises
 
-- Challenge activities
-
 - Unit summaries
+  
 Python Units 1–6 Summative Assessment
 
 ## Final Project
